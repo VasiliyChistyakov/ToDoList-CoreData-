@@ -5,4 +5,5 @@ This assignment is based on the code from the lectures.
 
 - UIKit
 - MVC
--UITableView
+- UITableView
+- Core Data
